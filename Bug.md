@@ -1,19 +1,18 @@
 # Bug Reporting Guide
 
-If you encounter a bug while playing **Mystic Shores Roleplay**, please help us improve by reporting it!
+If you find a bug while playing on **Mystic Shores Roleplay** (FiveM), please let us know so we can fix it!
 
 ## How to Report a Bug
 
-1. Click the link below to create a new issue in our GitHub repository:
+1. Click the link below to open a new bug report:
    [Report a Bug](https://github.com/Mzanzi-Shores-RP/Mystic-Shores-Roleplay/issues/new)
 
-2. Provide the following information in your bug report:
-   - **Detailed description** of the bug.
-   - Steps to reproduce the issue.
-   - Expected behavior.
-   - What actually happened.
-   - Screenshots or logs (if applicable).
+2. Include the following in your report:
+   - **What happened** (describe the issue clearly).
+   - **Steps to make it happen again** (how we can reproduce the bug).
+   - **What you expected to happen** vs. **what actually happened**.
+   - Any screenshots, videos, or error messages (if you have them).
 
-3. Submit your issue.
+3. Submit your report, and we’ll check it out as soon as possible.
 
-Your reports help us make the game better for everyone. Thank you for your support!
+Thanks for helping us make the server better for everyone!
